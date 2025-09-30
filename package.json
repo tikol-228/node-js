@@ -1,0 +1,15 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "[lesson-2](https://github.com/tikol-228/node-js/tree/lesson-2) - ссылка на ветку с уроком",
+  "main": "serverpage.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
