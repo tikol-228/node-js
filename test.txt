@@ -1,0 +1,6 @@
+// /search?keyword=express
+app.get('/search', (req, res) => {
+    console.log(req.query);
+    const keyword = req.query.keyword;
+    res.send(`search ${keyword}`)
+})
